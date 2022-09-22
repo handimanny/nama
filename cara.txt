@@ -5,3 +5,5 @@ git commit -m "first commit" (nama commit)
 git branch -M main (jika belum main)
 git remote add origin https://github.com/handimanny/nama.git (jika belum remote)
 git push -u origin main
+
+-sekian-
